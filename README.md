@@ -310,7 +310,7 @@ kubectl apply -f aio-wordpress-mysql-deployment.yml
 
 Si, vous souhaitez déployer les objets les uns après les autres, rendez-vous dans le dossier *Step-by-step deployment* puis exécutez la commande `kubectl apply -f <filename>` pour chaque fichier dans l'ordre que je vous propose :
 
-![image](https://user-images.githubusercontent.com/101605739/227746202-7c07b09f-7b34-4ec4-8b55-44dd122c7f85.png)
+![image](https://user-images.githubusercontent.com/101605739/227747834-407fb89f-25e2-42ab-ba3e-18d83c33f79f.png)
 
 Vous pouvez également utiliser `kubectl` pour vérifier l'état de vos ressources déployées :
 
