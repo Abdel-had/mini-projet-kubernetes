@@ -1,0 +1,14 @@
+# Service WordPress
+apiVersion: v1
+kind: Service
+metadata:
+  name: wordpress-svc
+  namespace: dev
+spec:
+  selector:
+    app: wordpress
+  ports:
+  - port: 8080
+    targetPort: 80
+    nodePort: 30080
+  type: NodePort
