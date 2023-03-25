@@ -25,7 +25,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 ## Voici le schéma d'infrastructure que je propose
 
-[![](https://mermaid.ink/img/pako:eNp9k01zgjAQhv8Kk5POSL1z8II9OCMOlak9SA8pWZUp-Zgk2LGO_70BggSoXkh299l9s5twRRkngAJ0lFicvPU2ZZ6nyq_G3GAKSuAM9gTOnfVZQQ62BFHwCwWmVRPxvOiSvK0n9dcJT9vwB5cklqDU5L4bY8DIQCgBec4z6Ksk58wKhUWpNMhV3IJjvQruJDem95hLPeDHwjtelHSgG--sbAxS5UaYactNB1z4CDQnxjkdn9KU7g75uLzDh88SejLj5kLODvkxwqKtG0ZdNd-OtmX6VeyyYseK3du1fh9hkZsTTJqlzgrN7XD6vl3vT1qLYD4XEoTkxP8xYqJKfBH8l6uXg6wrNMq-79_vufJ2fVYR92L_yTGDuXvN3g08qWWzXHsI9LXCaFyt8TXtG8eia783izpk5-aMsnYPm3PtPjCUX_RG1u67QMrQDFGQFOfE_PzXikqRPgGFFAVmS7D8TlHKboYrBcEaXkmuuUTBARcKZgiXmicXlqFAyxJaaJlj86aopW5_CI1y1w)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp9k01zgjAQhv8Kk5POSL1z8II9OCMOlak9SA8pWZUp-Zgk2LGO_70BggSoXkh299l9s5twRRkngAJ0lFicvPU2ZZ6nyq_G3GAKSuAM9gTOnfVZQQ62BFHwCwWmVRPxvOiSvK0n9dcJT9vwB5cklqDU5L4bY8DIQCgBec4z6Ksk58wKhUWpNMhV3IJjvQruJDem95hLPeDHwjtelHSgG--sbAxS5UaYactNB1z4CDQnxjkdn9KU7g75uLzDh88SejLj5kLODvkxwqKtG0ZdNd-OtmX6VeyyYseK3du1fh9hkZsTTJqlzgrN7XD6vl3vT1qLYD4XEoTkxP8xYqJKfBH8l6uXg6wrNMq-79_vufJ2fVYR92L_yTGDuXvN3g08qWWzXHsI9LXCaFyt8TXtG8eia783izpk5-aMsnYPm3PtPjCUX_RG1u67QMrQDFGQFOfE_PzXikqRPgGFFAVmS7D8TlHKboYrBcEaXkmuuUTBARcKZgiXmicXlqFAyxJaaJlj86aopW5_CI1y1w)
+[![](https://mermaid.ink/img/pako:eNp9k8FygjAQhl-FyUlnpN45eMEenBGHytQepIeUrJopSZgk2LGO794AQQJULyS7--3-2U24okwQQAE6SlycvPU25Z6nyq_G3GAGqsAZ7AmcO-uzghxsCUUuLgy4Vk3E86JL8rae1F8nPG3DH0KSWIJSk_tujAEnA6EE5Jlm0FdJzpkVCvNSaZCruAXHehXcSW5M77GQesCPhXciL9lAN95Z2RikokaYa8tNB1z4CDQnxpSNT2lKd4d8XN7hw2cJPZlxc6HgB3qMcNHWDaOumm9H2zL9KnZZ8WPF7u1av48wp-YEk2aps0JzO4K9b9f7k9ZFMJ-bR-X_GKGiSnopxK9QLwdZZzeqvu_f77jydj1WEfdS_8kxQ7l7zd4NPKlls1x7CPS1wmhcrfE1rRvHomu9N4c6ZGfmjLF2D5tz7T4wlF_0Rtbuu0DK0QwxkAxTYn78a0WlSJ-AQYoCsyVYfqco5TfDlQXBGl4J1UKi4IBzBTOESy2SC89QoGUJLbSk2LwnZqnbH3EtcRo)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp9k8FygjAQhl-FyUlnpN45eMEenBGHytQepIeUrJopSZgk2LGO794AQQJULyS7--3-2U24okwQQAE6SlycvPU25Z6nyq_G3GAGqsAZ7AmcO-uzghxsCUUuLgy4Vk3E86JL8rae1F8nPG3DH0KSWIJSk_tujAEnA6EE5Jlm0FdJzpkVCvNSaZCruAXHehXcSW5M77GQesCPhXciL9lAN95Z2RikokaYa8tNB1z4CDQnxpSNT2lKd4d8XN7hw2cJPZlxc6HgB3qMcNHWDaOumm9H2zL9KnZZ8WPF7u1av48wp-YEk2aps0JzO4K9b9f7k9ZFMJ-bR-X_GKGiSnopxK9QLwdZZzeqvu_f77jydj1WEfdS_8kxQ7l7zd4NPKlls1x7CPS1wmhcrfE1rRvHomu9N4c6ZGfmjLF2D5tz7T4wlF_0Rtbuu0DK0QwxkAxTYn78a0WlSJ-AQYoCsyVYfqco5TfDlQXBGl4J1UKi4IBzBTOESy2SC89QoGUJLbSk2LwnZqnbH3EtcRo)
 
 ## Étape 1 : Création du namespace
 Pour commencer, j'ai créé un namespace `dev` afin de séparer mes ressources des autres environnements.
@@ -276,20 +276,20 @@ spec:
 ## Étape 6 : Ingress
 À ce stade, notre application est déjà accessible depuis l'extérieur via l'adresse IP virtuelle (VIP) du cluster ou celle de l'un des nœuds, suivie du port 30080. Cependant, je souhaitais rendre mon application accessible via une URL simple. Pour ce faire, j'ai créé une règle Ingress permettant d'exposer mon application WordPress à l'aide d'un domaine personnalisé.
 
-En effet, lorsque http://preprod-wordpress.pozos.fr sera sollicité, c'est l'ingress controller qui recevra la requête et la redirigera vers le service wordpress-svc à l'intérieur du cluster sur le port 8080. Ce service se chargera ensuite de joindre le pod à l'intérieur duquel tourne le conteneur wordpress.
+En effet, lorsque http://dev-wordpress.pozos.fr sera sollicité, c'est l'ingress controller qui recevra la requête et la redirigera vers le service wordpress-svc à l'intérieur du cluster sur le port 8080. Ce service se chargera ensuite de joindre le pod à l'intérieur duquel tourne le conteneur wordpress.
 
 
 ```yaml
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: preprod-wordpress-ingress
+  name: dev-wordpress-ingress
   namespace: dev
   annotations:
     kubernetes.io/ingress.class: "nginx"
 spec:
   rules:
-  - host: preprod-wordpress.pozos.fr
+  - host: dev-wordpress.pozos.fr
     http:
       paths:
       - pathType: Prefix
@@ -320,10 +320,10 @@ kubectl get all -n dev
 
 ## Étape 8 : Consommation de l'application
 
-Après le déploiement, vous pouvez accéder à votre application WordPress en utilisant l'adresse http://preprod-wordpress.pozos.fr (en supposant que vous ayez correctement configuré la résolution DNS pour pointer vers votre cluster Kubernetes).
+Après le déploiement, vous pouvez accéder à votre application WordPress en utilisant l'adresse http://dev-wordpress.pozos.fr (en supposant que vous ayez correctement configuré la résolution DNS pour pointer vers votre cluster Kubernetes).
 
 --------
-[![](https://mermaid.ink/img/pako:eNp9k01zgjAQhv8Kk5POSL1z8II9OCMOlak9SA8pWZUp-Zgk2LGO_70BggSoXkh299l9s5twRRkngAJ0lFicvPU2ZZ6nyq_G3GAKSuAM9gTOnfVZQQ62BFHwCwWmVRPxvOiSvK0n9dcJT9vwB5cklqDU5L4bY8DIQCgBec4z6Ksk58wKhUWpNMhV3IJjvQruJDem95hLPeDHwjtelHSgG--sbAxS5UaYactNB1z4CDQnxjkdn9KU7g75uLzDh88SejLj5kLODvkxwqKtG0ZdNd-OtmX6VeyyYseK3du1fh9hkZsTTJqlzgrN7XD6vl3vT1qLYD4XEoTkxP8xYqJKfBH8l6uXg6wrNMq-79_vufJ2fVYR92L_yTGDuXvN3g08qWWzXHsI9LXCaFyt8TXtG8eia783izpk5-aMsnYPm3PtPjCUX_RG1u67QMrQDFGQFOfE_PzXikqRPgGFFAVmS7D8TlHKboYrBcEaXkmuuUTBARcKZgiXmicXlqFAyxJaaJlj86aopW5_CI1y1w)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp9k01zgjAQhv8Kk5POSL1z8II9OCMOlak9SA8pWZUp-Zgk2LGO_70BggSoXkh299l9s5twRRkngAJ0lFicvPU2ZZ6nyq_G3GAKSuAM9gTOnfVZQQ62BFHwCwWmVRPxvOiSvK0n9dcJT9vwB5cklqDU5L4bY8DIQCgBec4z6Ksk58wKhUWpNMhV3IJjvQruJDem95hLPeDHwjtelHSgG--sbAxS5UaYactNB1z4CDQnxjkdn9KU7g75uLzDh88SejLj5kLODvkxwqKtG0ZdNd-OtmX6VeyyYseK3du1fh9hkZsTTJqlzgrN7XD6vl3vT1qLYD4XEoTkxP8xYqJKfBH8l6uXg6wrNMq-79_vufJ2fVYR92L_yTGDuXvN3g08qWWzXHsI9LXCaFyt8TXtG8eia783izpk5-aMsnYPm3PtPjCUX_RG1u67QMrQDFGQFOfE_PzXikqRPgGFFAVmS7D8TlHKboYrBcEaXkmuuUTBARcKZgiXmicXlqFAyxJaaJlj86aopW5_CI1y1w)
+[![](https://mermaid.ink/img/pako:eNp9k8FygjAQhl-FyUlnpN45eMEenBGHytQepIeUrJopSZgk2LGO794AQQJULyS7--3-2U24okwQQAE6SlycvPU25Z6nyq_G3GAGqsAZ7AmcO-uzghxsCUUuLgy4Vk3E86JL8rae1F8nPG3DH0KSWIJSk_tujAEnA6EE5Jlm0FdJzpkVCvNSaZCruAXHehXcSW5M77GQesCPhXciL9lAN95Z2RikokaYa8tNB1z4CDQnxpSNT2lKd4d8XN7hw2cJPZlxc6HgB3qMcNHWDaOumm9H2zL9KnZZ8WPF7u1av48wp-YEk2aps0JzO4K9b9f7k9ZFMJ-bR-X_GKGiSnopxK9QLwdZZzeqvu_f77jydj1WEfdS_8kxQ7l7zd4NPKlls1x7CPS1wmhcrfE1rRvHomu9N4c6ZGfmjLF2D5tz7T4wlF_0Rtbuu0DK0QwxkAxTYn78a0WlSJ-AQYoCsyVYfqco5TfDlQXBGl4J1UKi4IBzBTOESy2SC89QoGUJLbSk2LwnZqnbH3EtcRo)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp9k8FygjAQhl-FyUlnpN45eMEenBGHytQepIeUrJopSZgk2LGO794AQQJULyS7--3-2U24okwQQAE6SlycvPU25Z6nyq_G3GAGqsAZ7AmcO-uzghxsCUUuLgy4Vk3E86JL8rae1F8nPG3DH0KSWIJSk_tujAEnA6EE5Jlm0FdJzpkVCvNSaZCruAXHehXcSW5M77GQesCPhXciL9lAN95Z2RikokaYa8tNB1z4CDQnxpSNT2lKd4d8XN7hw2cJPZlxc6HgB3qMcNHWDaOumm9H2zL9KnZZ8WPF7u1av48wp-YEk2aps0JzO4K9b9f7k9ZFMJ-bR-X_GKGiSnopxK9QLwdZZzeqvu_f77jydj1WEfdS_8kxQ7l7zd4NPKlls1x7CPS1wmhcrfE1rRvHomu9N4c6ZGfmjLF2D5tz7T4wlF_0Rtbuu0DK0QwxkAxTYn78a0WlSJ-AQYoCsyVYfqco5TfDlQXBGl4J1UKi4IBzBTOESy2SC89QoGUJLbSk2LwnZqnbH3EtcRo)
 
 # Conclusion
 
