@@ -25,7 +25,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 ## Here is the infrastructure diagram that I propose
 
-![suggested-architecture](https://user-images.githubusercontent.com/101605739/227812568-8ebd8e3e-e28f-4ab8-a0c6-09f379263711.jpg)
+![suggested-architecture](https://github.com/Abdel-had/mini-projet-kubernetes/blob/main/img/suggested-architecture.jpg)
 
 
 ## Step 1: Namespace creation
@@ -323,7 +323,7 @@ kubectl get all -n dev
 
 After deployment, you can access your WordPress application using the address http://dev-wordpress.pozos.fr (assuming you have correctly configured DNS resolution to point to your Kubernetes cluster).
 
-![suggested-architecture](https://user-images.githubusercontent.com/101605739/227812568-8ebd8e3e-e28f-4ab8-a0c6-09f379263711.jpg)
+![suggested-architecture](https://github.com/Abdel-had/mini-projet-kubernetes/blob/main/img/suggested-architecture.jpg)
 
 --------
 
