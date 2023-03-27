@@ -25,7 +25,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 ## Voici le schéma d'infrastructure que je propose
 
-![suggested-architecture](https://user-images.githubusercontent.com/101605739/227812568-8ebd8e3e-e28f-4ab8-a0c6-09f379263711.jpg)
+![suggested-architecture](https://github.com/Abdel-had/mini-projet-kubernetes/blob/main/img/suggested-architecture.jpg)
 
 
 ## Étape 1 : Création du namespace
@@ -323,7 +323,7 @@ kubectl get all -n dev
 
 Après le déploiement, vous pouvez accéder à votre application WordPress en utilisant l'adresse http://dev-wordpress.pozos.fr (en supposant que vous ayez correctement configuré la résolution DNS pour pointer vers votre cluster Kubernetes).
 
-![suggested-architecture](https://user-images.githubusercontent.com/101605739/227812568-8ebd8e3e-e28f-4ab8-a0c6-09f379263711.jpg)
+![suggested-architecture](https://github.com/Abdel-had/mini-projet-kubernetes/blob/main/img/suggested-architecture.jpg)
 
 --------
 
