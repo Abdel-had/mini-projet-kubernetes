@@ -275,7 +275,7 @@ spec:
 ```
 
 ## Step 6: Ingress
-At this stage, our application is already accessible from the outside via the virtual IP (VIP) of the cluster or that of one of the nodes, followed by port 30080. However, I wanted to make my application accessible via a simple URL. To do this, I created an Ingress rule to expose my WordPress application using a custom domain.
+At this stage, our application is already accessible from the outside via the virtual IP (VIP) of the cluster or that of one of the nodes, followed by `port 30080`. However, I wanted to make my application accessible via a simple URL. To do this, I created an Ingress rule to expose my WordPress application using a custom domain.
 
 Indeed, when http://dev-wordpress.pozos.fr is requested, it is the ingress controller that will receive the request and redirect it to the wordpress-svc service inside the cluster on port 8080. This service will then be responsible for connecting to the pod in which the WordPress container is running.
 
