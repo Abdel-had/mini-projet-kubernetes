@@ -29,7 +29,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 
 ## Step 1: Namespace creation
-To begin, I created a dev namespace in order to separate my resources from other environments.
+To begin, I created a `dev` namespace in order to separate my resources from other environments.
 
 ```yaml
 apiVersion: v1
@@ -309,7 +309,7 @@ To deploy these applications along with their infrastructure components, I use m
 kubectl apply -f aio-wordpress-mysql-deployment.yml
 ```
 
-If you wish to deploy the objects one by one, go to the *Step-by-step deployment* folder and run the kubectl apply -f <filename> command for each file in the order I suggest:
+If you wish to deploy the objects one by one, go to the *Step-by-step deployment* folder and run the `kubectl apply -f <filename>` command for each file in the order I suggest:
 
 ![image](https://user-images.githubusercontent.com/101605739/227747834-407fb89f-25e2-42ab-ba3e-18d83c33f79f.png)
 
