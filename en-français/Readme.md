@@ -30,7 +30,7 @@ LinkedIn : https://www.linkedin.com/in/abdel-had-hanami/
 
 ## Étape 1 : Création du namespace
 Pour commencer, j'ai créé un namespace `dev` afin de séparer mes ressources des autres environnements.
-
+ 
 ```yaml
 apiVersion: v1
 kind: Namespace
